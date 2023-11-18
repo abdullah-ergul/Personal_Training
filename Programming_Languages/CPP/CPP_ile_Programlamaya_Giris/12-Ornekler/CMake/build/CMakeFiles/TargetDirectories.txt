@@ -1,0 +1,3 @@
+C:/Users/Abdullah/OneDrive/Abdullah/Coding/BTK_Akademi/CPP/build/CMakeFiles/outfile.dir
+C:/Users/Abdullah/OneDrive/Abdullah/Coding/BTK_Akademi/CPP/build/CMakeFiles/edit_cache.dir
+C:/Users/Abdullah/OneDrive/Abdullah/Coding/BTK_Akademi/CPP/build/CMakeFiles/rebuild_cache.dir
